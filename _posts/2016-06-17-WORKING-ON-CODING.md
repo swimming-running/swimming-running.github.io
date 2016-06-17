@@ -3,22 +3,22 @@ title: WORKING ON CODING
 layout: post
 author: benjamin.jackson
 permalink: /working-on-coding/
-source-id: 1lmHwfXDRS3yNkYypNBvQaF4fXyOPHmxJBP1C-TRj9I8
+source-id: 11ZVPzLSq9JUQoB5Oo0229KRXHUD3dPkyuU6qR95CwEQ
 published: true
 ---
-**WORKING ON CODING #2**
+**WORKING ON CODING **
 
-**Last lesson we carried on to work on different small coding **
+**Last lesson we started to work on different small coding**
 
-**projects . There are nine in total and I did three last lesson: Roll the dice, Flash point and Mood swings. And I did three this lesson: Worst snake ever, Quick-finger and Maze Runner.**
+**projects . There are nine in total and I did three this lesson: Roll the dice, Flash point and Mood swings. They were all a challenge but I got through them.**
 
-**WWW: **
+**WWW:**
 
-**I think that what went well was how fast and smoothly i went through the codes. I went a lot faster than i did last lesson so i improved a lot which is a good thing!!!**
+**I think that what went well was how fast and smoothly i went through the codes. I worked a lot faster than most of my class.**
 
 **EBI:**
 
-**This leson i think i did all i could to have no EBI but there is always one thing, i still get distracted by my friends. I need to stop it !!!**
+**I think i need to try and stay focused and try to concentrate more as i could have worked twice as fast.**
 
 ![image alt text]({{ site.url }}/public/boMAoMmXlZGwGJcDbgCk9w_img_0.jpg)
 
