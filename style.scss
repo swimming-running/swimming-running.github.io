@@ -106,7 +106,10 @@ em, i {
 strong, b {
   font-weight: bold;
 }
-
+{table
+ colour: $white;
+ background: $black;
+}
 img {
   max-width: 100%;
 }
