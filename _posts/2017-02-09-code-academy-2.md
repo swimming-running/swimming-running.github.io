@@ -6,6 +6,8 @@ permalink: /code-academy-2/
 source-id: 1bAeWA3Qwtda_GgaidOg2mftKNY7AmGYvUPF3ap1mGQI
 published: true
 ---
+0
+
 <table>
   <tr>
     <td>Starting point:</td>
@@ -37,7 +39,7 @@ published: true
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>I think that when i got stuck i would ask someone straight away when i should have waited and tried more myself. </td>
+    <td>I think that when i got stuck i would ask someone straight away when i should have waited a while so i could have figured it out myself.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
