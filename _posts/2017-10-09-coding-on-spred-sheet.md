@@ -1,5 +1,5 @@
 ---
-title: coding on spred sheet
+title: coding on spread sheet
 layout: post
 author: benjamin.jackson
 permalink: /coding-on-spred-sheet/
